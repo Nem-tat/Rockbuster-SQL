@@ -3,7 +3,7 @@ A project based on analzing data from Rockbuster Stealth LLC movie company using
 ## ObJECTIVES
 Rockbuster Stealth LLC is an imaginary movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, they aim at locating where loyal customers are located and boosting revenue in locations based on film iventory.
 ## DATA
-Rockbuster data would likely include various details and records related to video rentals, customers, movies, transactions, and more. Visualisation for this project can be found Tableau # [Here](https://public.tableau.com/views/SalesDistribution_16897096866960/Distribution?:language=en-GB&:display_count=n&:origin=viz_share_link)
+Rockbuster data would likely include various details and records related to video rentals, customers, movies, transactions, and more. Visualisation for this project can be found Tableau  [Here](https://public.tableau.com/views/SalesDistribution_16897096866960/Distribution?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ## TOOLS
 Language: PostgreSQL Software: pgAdmin, DbVisualizer,Lucidchart, Tableau, Excel
 ## SKILLS DEMONSTRATED
