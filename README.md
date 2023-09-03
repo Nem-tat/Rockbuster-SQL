@@ -1,1 +1,42 @@
-# SQLGIT
+#  Rockbuster-SQL
+A project based on analzing data from Rockbuster Stealth LLC movie company using PostgreSQL.
+## ObJECTIVES
+Rockbuster Stealth LLC is an imaginary movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, they aim at locating where loyal customers are located and boosting revenue in locations based on film iventory.
+## DATA
+Rockbuster data would likely include various details and records related to video rentals, customers, movies, transactions, and more. Visualisation for this project can be found Tableau # [Here](https://public.tableau.com/views/SalesDistribution_16897096866960/Distribution?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## TOOLS
+Language: PostgreSQL Software: pgAdmin, DbVisualizer,Lucidchart, Tableau, Excel
+## SKILLS DEMONSTRATED
+During the Rockbuster SQL project, you can demonstrate a range of skills and competencies related to database management and SQL querying. Here are some of the skills you can showcase:
+
+1. **Database Design:** Designing a relational database schema that reflects the structure and relationships of the data in the Rockbuster video rental store. This involves creating tables, defining primary keys, and establishing foreign key relationships.
+
+2. **Table Creation:** Creating SQL scripts to generate the necessary tables for storing data related to customers, movies, rentals, employees, genres, and any other relevant entities in the video rental system.
+
+3. **Data Insertion:** Demonstrating the ability to populate the database with sample data or initial records, which is essential for testing and development purposes.
+
+4. **Data Retrieval (SELECT Statements):** Writing SQL queries to retrieve specific information from the database, such as customer details, movie information, rental history, and employee records.
+
+5. **Filtering and Sorting:** Using SQL clauses like WHERE and ORDER BY to filter and sort query results based on various criteria, such as rental dates, customer IDs, movie genres, etc.
+
+6. **Aggregate Functions:** Employing SQL aggregate functions like COUNT, SUM, AVG, and MAX/MIN to calculate and present summary statistics or metrics related to the video rental data.
+
+7. **Join Operations:** Performing JOIN operations (INNER JOIN, LEFT JOIN, RIGHT JOIN, etc.) to combine data from multiple tables when necessary, such as retrieving customer rental history with movie details.
+
+8. **Subqueries:** Using subqueries to retrieve data within the context of another query, such as finding the most rented movie or the customer with the highest number of rentals.
+
+9. **Data Modification (UPDATE and DELETE Statements):** Writing SQL statements to update or delete records as needed, demonstrating data maintenance and management capabilities.
+
+10. **Data Integrity:** Implementing constraints like UNIQUE, NOT NULL, and FOREIGN KEY constraints to ensure data integrity and prevent data inconsistencies.
+
+11. **Database Indexing:** Utilizing indexing to optimize query performance, especially when dealing with large datasets.
+
+12. **Data Reporting:** Generating SQL-based reports that provide insights into the Rockbuster video rental business, such as monthly rental trends, top-performing movies, or customer loyalty analysis.
+
+13. **Documentation:** Creating clear and well-documented SQL scripts and queries, including comments and explanations for complex or critical sections of code.
+
+14. **Error Handling:** Handling potential errors and exceptions gracefully in SQL code, providing robust and reliable database operations.
+
+15. **Query Optimization:** Identifying and implementing SQL query optimization techniques to improve query performance when working with large datasets.
+
+16. **Data Security:** Considering data security best practices, such as ensuring that sensitive information is appropriately protected, and access is restricted based on user roles and permissions.
