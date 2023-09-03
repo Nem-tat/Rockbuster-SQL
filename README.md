@@ -7,7 +7,7 @@ Rockbuster data would likely include various details and records related to vide
 ## TOOLS
 Language: PostgreSQL Software: pgAdmin, DbVisualizer,Lucidchart, Tableau, Excel
 ## SKILLS DEMONSTRATED
-During the Rockbuster SQL project, you can demonstrate a range of skills and competencies related to database management and SQL querying. Here are some of the skills you can showcase:
+During the Rockbuster SQL project, i demonstrated a range of skills and competencies related to database management and SQL querying. Here are some of the skills i can showcase:
 
 1. **Database Design:** Designing a relational database schema that reflects the structure and relationships of the data in the Rockbuster video rental store. This involves creating tables, defining primary keys, and establishing foreign key relationships.
 
