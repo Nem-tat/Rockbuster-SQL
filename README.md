@@ -40,3 +40,4 @@ During the Rockbuster SQL project, i demonstrated a range of skills and competen
 15. **Query Optimization:** Identifying and implementing SQL query optimization techniques to improve query performance when working with large datasets.
 
 16. **Data Security:** Considering data security best practices, such as ensuring that sensitive information is appropriately protected, and access is restricted based on user roles and permissions.
+## Tableau visualization sources of queries
